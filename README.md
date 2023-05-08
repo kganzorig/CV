@@ -2,7 +2,7 @@
 
 During my undergraduate and postgraduate studies, the only factor which mattered in my decision-making process for picking modules was simply the fact I knew nothing about a topic. This blind curiosity for the unknown lead my degrees to be dominated by the Ancient Greeks, Romans, Ottomans and Napoleon. In the past few years, this habit has continued to grow. 
 
-After working at a tech-start up for several months and getting the opportunity to sit through the engineering team's meetings I realised that I really wanted to know how applications and websites were made. I was so impressed by the team's ability to make what they want to happen, like a painter imagining a scene and then producing a painting, that I felt a strong urge to learn coding for the sake of it. To better understand how the technology, I use every day works. This is why I am a student at Makers on the Software Development Bootcamp. 
+After working at a tech-start up for several months and getting the opportunity to sit through the engineering team's meetings I realised that I really wanted to know how applications and websites were made. I was so impressed by the team's ability to make what they want to happen, like a painter imagining a scene and then producing a painting, that I felt a strong urge to learn coding for the sake of it. This is why I am a student at Makers on the Software Development Bootcamp. 
 
 
 ## Projects
